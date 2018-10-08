@@ -1,0 +1,43 @@
+.crystalHeading {
+    background-color: orange;
+    margin-left: -15px;
+}
+
+#instructions {
+    background-color: beige;
+    color: green;
+}
+
+#randomNum {
+    background-color: green;
+    margin: 10px 10px 0 0; 
+}
+
+#spacingUnderRandNum {
+    background-color: green;
+    margin-right: 10px;
+}
+
+#winsStylingDiv { 
+    background-color: lightblue;
+    margin-top: 10px;
+}
+
+#lossesStylingDiv { 
+    background-color: lightblue;
+}
+
+#diamondRow {
+    margin-top: 10px;
+}
+
+#totalScoreText {
+    background-color: lightseagreen;
+    margin-top: 10px;
+    font-size: 12px;
+}
+
+#totalNum {
+    background-color: lightseagreen;
+    margin-top: 5px;
+}
