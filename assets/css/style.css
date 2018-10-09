@@ -1,3 +1,7 @@
+body {
+    background-image: url("../images/light-grey-terrazzo/light-grey-terrazzo/light-grey-terrazzo.png");
+}
+
 .crystalHeading {
     background-color: orange;
     margin-left: -15px;
@@ -8,7 +12,7 @@
     color: green;
 }
 
-#randomNum {
+#randomNumArea {
     background-color: green;
     margin: 10px 10px 0 0; 
 }
@@ -40,4 +44,10 @@
 #totalNum {
     background-color: lightseagreen;
     margin-top: 5px;
+}
+
+.picture {
+    height: 125px;
+    width: 125px;
+    border: solid black 1px;
 }
